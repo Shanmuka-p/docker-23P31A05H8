@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+encrypted_seed.txt
+seed.txt
