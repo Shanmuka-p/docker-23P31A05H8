@@ -40,8 +40,8 @@ A production-ready, containerized microservice that implements Two-Factor Authen
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/pki-2fa-service.git](https://github.com/yourusername/pki-2fa-service.git)
-    cd pki-2fa-service
+    git clone https://github.com/Shanmuka-p/docker-23P31A05H8.git
+    cd docker-23P31A05H8
     ```
 
 2.  **Verify Key Files**
@@ -58,7 +58,7 @@ A production-ready, containerized microservice that implements Two-Factor Authen
 4.  **Verify Container Status**
     ```bash
     docker ps
-    # Status should be 'Up' for pki-2fa-service
+    # Status should be 'Up' for docker-23P31A05H8
     ```
 
 ---
