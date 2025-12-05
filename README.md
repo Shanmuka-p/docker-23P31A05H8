@@ -107,4 +107,4 @@ The system runs a cron job every minute to log the current 2FA code. To verify t
 
 ```bash
 # Note: Use double slash // for Git Bash on Windows
-docker exec pki-2fa-service cat //cron/last_code.txt
+docker exec docker-23P31A05H8 cat //cron/last_code.txt
